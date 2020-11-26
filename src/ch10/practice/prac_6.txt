@@ -1,0 +1,14 @@
+연습문제 6번
+
+
+void func(int *a) {
+    *a += 10;
+}
+
+void main(){
+    int a = 100;
+    func(&a);
+    printf("%d", a);
+}
+
+110
