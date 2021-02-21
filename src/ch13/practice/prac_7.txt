@@ -1,0 +1,11 @@
+연습문제 7번
+
+enum week {sum=5, mon, tue, wed, thu, fri, sat=10};
+
+sum = -5
+mon = -4
+tue = -3
+wed = -2
+thu = -1
+fri = 0
+sat = 10

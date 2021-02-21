@@ -1,0 +1,8 @@
+연습문제 3번
+
+struct student {
+    char name[10];
+    int jumsu;
+};
+
+s[1].jumsu

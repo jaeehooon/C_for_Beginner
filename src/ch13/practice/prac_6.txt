@@ -1,0 +1,8 @@
+연습문제 6번
+
+struct emp {
+    char name[10];
+    int age;
+    char phoneNumber[13];
+    float wage;
+}

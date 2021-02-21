@@ -1,0 +1,10 @@
+연습문제 4번
+
+struct student {
+    char name[10];
+    int jumsu;
+} s;
+
+struct student *p = &s;
+
+p->jumsu = 90;
