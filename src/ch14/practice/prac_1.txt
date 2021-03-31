@@ -1,0 +1,5 @@
+연습문제 1번
+
+실행 파일에 매개변수를 넘겨주기 위한 main() 함수의 기본 형식
+
+--> int main(int argc, char* argv[])
